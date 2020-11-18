@@ -1,4 +1,4 @@
-# Assignment 1
+# mini-shell
 
 ### Program Files
 * Cat: catmain.c cat.c cat.h (make catmain)
@@ -31,8 +31,3 @@ Must use /bin/cat when doing redirection.
 ```bash
 /bin/cat lorem.txt > out.txt
 ```
-
-
-### Honor Code
-
-I did not violate the honor code in completing this assignment.
